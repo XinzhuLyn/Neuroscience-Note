@@ -53,3 +53,5 @@ Calcium modulate several proteins of phototransduction pathway, it inhibits guan
 
 ·Because of the Ca2+ effect, a more intense stimulus(light) is required to close the same amount of CNG channel.
 
+123
+
