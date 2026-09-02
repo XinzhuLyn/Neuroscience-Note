@@ -24,6 +24,7 @@ Retina contains 3 Layers of cells:
 
 
  # Photoreceptor
+cells that "detect" light, color, respond to light with graded changes in membrane potential
  
  ## 2 types of Photoreceptors:Rods and Cones
 Differences between
@@ -93,6 +94,18 @@ Each cone cells synapse on both 2 types of bipolar cell, it "communicates" with 
 |Illumination|↓|↓|Excited|Inhibited|
 |Darkness|↑|↑|Inhibited|Excited|
 
+
+# Ganglion cell
+
+·Ganglion cells are able to initiate action potential
+·Ganglion cells convey output of retina
+
+## Two types of ganglion cells
+·On-center ganglion cells
+·Off-center ganglion cells
+They bind with the same type of bipolar cells chemically(Glu) and electrically.
+
+## The receptive field of ganglion cell has a center and an antagonistic surround
 
 
 
