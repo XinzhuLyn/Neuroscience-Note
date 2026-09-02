@@ -1,19 +1,32 @@
-You may find this in Chapter 9, exploring the brain/ Part V, Perception 25-29
+You may find this in Chapter 9, exploring the brain/ Part V, Perception 25-29，This file is aim to explain retina circuitry
 
 
-26 Visual Processing by Retina
+# 26 Visual Processing by Retina
+
 Retina contains 3 Layers of cells:
 
 
 
-Ganglion cell->Bipolar cell->Photoreceptor cell
+**Ganglion cell->Bipolar cell->Photoreceptor cell**
 
-[Image, Structure of Retina]
+[Image 1, Structure of Retina]
+
+|Structure|--|
+|---|---|
+|ganglion cell|--|
+|amacrine cell|--|
+|bipolar cell|--|
+|horizontal cell|--|
+|photoreceptor|--|
 
 
+(缺少分层组构说明，日后补上）
 
- -- 2 types of Photoreceptors:Rods and Cones
-Differences
+
+ # Photoreceptor
+ 
+ ## 2 types of Photoreceptors:Rods and Cones
+Differences between
 
 |Rods视杆|Cones视锥|
 |---|---|
@@ -30,18 +43,20 @@ Differences
 They respond to light by changing membrane potential.
 
 
- -- Reaction of photoreceptor cells under darkness/illumination
+ ## Photoreceptor: Reaction of photoreceptor cells under darkness/illumination
 
 |Darkness|Illumination|
 |---|---|
-|Darkness-->high cGMP concentration-->cGMP-gated channel(CNG) open-->Na+,Ca2+ influx, K+ efflux(not through CNG)-->depolarization|Light-->retinal conformationally changed(11-cis to all-trans configuration,hydrolyzed)-->no longer bind with opsin->opsin conformationally changed( change to metarhodopsin II)-->transducin activated cGMP phosphodiesterase（PDE）, hydrolyzing cGMP--> cGMP concentration ↓ -->cGMP gated channel close-->cut down Na+ influx，K+ efflux continue--> hyper polarization|
+|Darkness **-->** Retinal bind with opsin，high cytoplasmic cGMP concentration **-->** cGMP-gated channel(CNG) open **-->** Na+,Ca2+ influx, K+ efflux(not through CNG) **-->** depolarization|**Stage 1**: Light **-->** retinal conformationally changed(11-cis to all-trans configuration, hydrolyzed) **-->** no longer bind with opsin->opsin conformationally changed( change to metarhodopsin II)|
+|---|**Stage 2**: transducin activated cGMP phosphodiesterase（PDE）, hydrolyzing cGMP **-->** cGMP concentration ↓ |
+|---|**Stage 3**: cGMP gated channel close **-->** cut down Na+ influx，K+ efflux continue **-->** hyper-polarization|
 
 ·Cones have a higher rate of retinal hydrolization, generation
 
 
 
 
---  Calcium and light adaption钙调节与明适应
+##  Photoreceptor: Calcium and light adaption钙调节与明适应
 
 Calcium modulate several proteins of phototransduction pathway, it inhibits guanylyl cyclase, the enzymes that synthesize cGMP
 |Darkness|Illumination|
@@ -51,5 +66,34 @@ Calcium modulate several proteins of phototransduction pathway, it inhibits guan
 
 ·Lowering Ca2+ concentration is believed to speed up inactivation of the visual pigments, so that the effectiveness of light in activating cGMP phosphodiesterase is reduced.
 
-·Because of the Ca2+ effect, a more intense stimulus(light) is required to close the same amount of CNG channel.
+·Because of the Ca2+ effect, a more intense stimulus(light) is required to close the same amount of CNG channel.（slowly adapt to current illumination)
+
+·Calcium involved in releasing of glutamate. Ca2+ --> bind with synaptotagmin（突触结合蛋白） --> Relieve effectiveness of complexin in clamping SNARE protein --> SNARE protein catches synaptic vesicle and hold them in active zone --> vesicle membrane merge with the zone --> exocytosis, releasing glutamate .
+
+Therefore, Glu concentration is related to the Ca2+ concentration
+
+
+
+# Bipolar cell
+
+
+
+## Two types of Bipolar cell
+
+Each cone cells synapse on both 2 types of bipolar cell, it "communicates" with bipolar cells with glutamate(neurotransmitter)
+
+|Cell type|Reaction to glutamate|
+|---|---|
+|On-center bipolarcell|inhibit|
+|Off-center bipolarcell|excite|
+
+
+|---|Ca2+ concentration|Glu concentration|Reaction of On-center bipolar cell|Reaction of Off-center bipolar cell|
+|---|---|---|---|---|
+|Illumination|↓|↓|Excited|Inhibited|
+|Darkness|↑|↑|Inhibited|Excited|
+
+
+
+
 
