@@ -5,7 +5,7 @@
 
 Retina contains 3 Layers of cells:
 
-![视网膜细胞层级图](Neuroscience-Note/Perception/Vision/images/retina_bilingual_diagram.svg)
+![视网膜细胞层级图](./retina_bilingual_diagram.svg)
 
 **Ganglion cell->Bipolar cell->Photoreceptor cell**
 
