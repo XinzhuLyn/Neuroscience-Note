@@ -155,8 +155,18 @@ Each region of retina has several functionally distinct subsets of ganglion cell
 
 ## Horizontal cells
 
- -Have large dendritic trees, transfer informations from distant cones to bipolar cells;
+ -Have large dendritic trees, transfer information from distant cones to bipolar cells;
+
  -Horizontal cells electrically coupled with each other by gap junction therefore can relay informations between even farther photoreceptors contacting neighbored horizontal cells;
+
  -Feed back onto cones in the center of bipolar cells receptive field.
 
  ## Amacrine cells
+
+ -Have no distinct long axon in most cases; their dendrite-like processes extend laterally within the inner plexiform layer.
+
+ -Receive input mainly from bipolar cells and provide output to bipolar-cell terminals, ganglion cells, and other amacrine cells.
+
+ -Shape the spatial and temporal properties of ganglion-cell responses, including center–surround organization, contrast sensitivity, response duration, motion detection, and direction selectivity.
+
+-Some amacrine cells are electrically coupled by gap junctions; for example, AII amacrine cells are important for transmitting rod signals into cone bipolar pathways under dim light.
