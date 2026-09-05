@@ -5,11 +5,12 @@
 
 Retina contains 3 Layers of cells:
 
-
+![Image1 Structure of retina](../retina_bilingual_diagram.svg)
 
 **Ganglion cell->Bipolar cell->Photoreceptor cell**
 
-[Image 1, Structure of Retina]
+
+
 
 |Structure:Following the alignment|--|
 |---|---|
@@ -26,8 +27,6 @@ Retina contains 3 Layers of cells:
 |Indirect pathway/lateral pathway in inner retina| Photoreceptors <-> horizontal cells -> modulates photoreceptors -> bipolar cells|
 |Indirect pathway/lateral pathway in outer retina| Bipolar cells -> amacrine cells -> modulates bipolar cells -> ganglion cells|
 
-
-(缺少分层组构说明，日后补上）
 
 
  # Photoreceptor
