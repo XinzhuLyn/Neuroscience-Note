@@ -1,5 +1,4 @@
-This markdown mainly examines synaptic transmission between neurons, included different types of transmission, neurotransmitters, receptors and effectors, referring Mark Bear, Neuroscience exploring the brain, 4 ed.
-（ref待考究）
+This markdown mainly examines synaptic transmission between neurons, included different types of transmission, neurotransmitters, receptors and effectors, referring Bear, Connors & Paradiso, Neuroscience: Exploring the Brain, 4th ed.
 
 A typical neuron has approximately 10,000 synapses.
 
