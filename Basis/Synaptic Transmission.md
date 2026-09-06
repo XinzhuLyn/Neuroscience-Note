@@ -165,3 +165,54 @@ Structure：每个SNARE肽有一个将其本身固定在膜内的亲脂末端和
     
 ·Second messenger可激活细胞质内其他的enzyme，从而调节离子通道功能，改变代谢（therefore GCPR also called metabotropic receptor)
 
+## 神经递质的重摄取和降解
+
+递质和突触后受体发生作用后必须从cleft清除，让另一次突触传递可以进行；
+
+ 清除方式：
+ 
+**1.递质分子在细胞外液中通过diffusion而远离突触；**
+  
+  --对于大多氨基酸和肽类递质而言，这种diffusion常常被辅以presynaptic末梢的重摄取；
+
+ ·有神经递质transporter承担，在被重摄取入神经前末梢细胞质以后，递质被：
+
+ ｜重新载入囊泡
+ 
+ ｜酶降解
+
+分解产物会被循环利用；
+
+**2.递质分子也可以被cleft中的酶降解；**
+
+神经递质从突触间隙中被清除是十分重要的。神经递质留存太久可能会导致受体脱敏（desensitization），而后突触传递有可能失败。
+
+```
+有关突触传递的每一个步骤（递质合成、再入囊泡、出胞、受体结合、重摄取、降解）都是化学性的，因而可被特异性药物和毒物影响
+
+｜**Reuptake Inhibitor**重摄取抑制剂，抑制参与突触传递过程的特异性蛋白的正常功能；Ex.Antidepressants(SSRI)抗抑郁药：Inhibits serotonin(5-HT)s' reuptake therefore increase serotonin levels in the brain.
+
+｜**Receptor antagonist**受体激动剂，与受体结合、阻断传递；Ex.Caffeine, Cocaine咖啡因，可卡因
+
+｜**Receptor agonist**受体拮抗剂，模拟天然神经递质，激活受体。Ex. Morphine吗啡
+
+```
+## 突触整合的原理
+
+**Synaptic integration**是多个突触电位在一个突触后神经元上组合的过程
+
+**EPSP Integration**
+
+**｜EPSP quantum analysis**
+
+突触后的EPSP是quantize（量子化的），它们是不可分割的单位，是quantum（量子）的整倍数。每个miniature postsynaptic potential（小突触后电位）是由一个囊泡的递质内容物引起的，因此EPSP幅度是mini的整倍数。
+
+**｜EPSP summation**
+
+为了保证神经信号传递（尤其是神经肌肉接头）万无一失，需要产生一个幅度很大的EPSP：许多EPSP叠加，产生一个有意义的去极化：
+
+ 1.**Spatial summation空间总和**：将树突上不同突触同时产生的许多EPSP进行叠加；
+
+ 2.**Temporal summation时间总和**：将一个突触相继产生的，时间间隔为1-15ms的一连串EPSP
+
+ 
