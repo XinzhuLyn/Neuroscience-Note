@@ -71,4 +71,71 @@ Antagonist：阿托品(Atropine)
 **NE**- Alpha/Beta
 **GABA**- GABAA/GABAB
 
-1
+```
+转运体（Transporter）：
+｜构象：一种较大的跨膜蛋白质。一种神经递质可拥有几种转运体；
+｜任务：跨膜泵入神经递质分子，从而使神经递质在一些非常小的空间里达到较高的浓度；
+
+神经递质转运体有两种类型：
+1.神经元膜转运体（neuronal membrane transporter):
+
+--将神经递质从细胞外（包括synaptic cleft)运转至突触前末梢内；
+--使突触前末梢的细胞质内浓度比细胞外高一万多倍；
+--使用共转运机制（cotransport）：每转运一个递质分子时携带两个Na+进入细胞内；
+
+2.囊泡膜转运体（Vesicular transporter）：
+--将神经递质转运到synaptic vesicle内
+--使囊泡内递质浓度比细胞质中高十万倍。
+--使用逆向转运机制（countertransport）：每运转一个递质分子的同时，从囊泡内运出一个H+到细胞质中
+
+```
+
+## 胆碱能神经元 cholinergic neuron
+
+**位置**：存在于neuromuscular junction
+
+  ｜由**spinal cord& brain stem**中的**motor neuron**合成
+
+  ｜构成：乙酰辅酶（acetyl coenzyme）+胆碱（Choline）
+
+｜**Synthesis**：需要一种特殊的酶：胆碱乙酰基转移酶（choline acetyltransferase，ChAT）
+
+「识别cholinergic neuron的标志」
+
+--ChAT在轴突末梢的轴浆中合成ACh，被ACh转运体浓缩（从乙酰CoA中转移一个乙酰基团给胆碱（来自细胞外液）
+—胆碱量决定ACh合成量（可食补）
+
+｜Degradation：需要乙酰胆碱酯酶（Acetylcholinesterase，AChE，可被非cholinergic neuron合成）
+
+-- AChE被分泌到cleft，将ACh降解为胆碱与乙酸，过程迅速。大部分胆碱可被cholinergic transporter重摄取、合成
+
+--抑制AChE会扰乱骨骼肌、心机的胆碱能突触信息传递
+
+## 儿茶酚胺能神经元（catecholaminergic neuron）  
+
+｜通过Na+依赖转运体选择性地将儿茶酚胺类物质reuptake的化学结构，通称儿茶酚胺类物质（catecholamines）。 
+
+｜**Degradation**：通过Na+依赖转运体选择性地将儿茶酚胺类物质reuptake动、情绪、注意力以及内脏功能调节的脑区
+
+｜**Synthesis**：所有的catecholaminergic neuron都含有酪氨酸羟化酶（tyrosine hydroxylase，TH），其活性是儿茶酚胺类物质合成的限速步骤。
+
+  1.TH将酪氨酸转化为Dopa（增加一个HO）；
+  
+  2.Dopa经多巴脱羧酶（dopa decarboxylase）转化而形成递质DA（移走COOH）；
+
+  3.多巴胺-β-羟化酶（dopa decarboxylase，DBH）将DA转化为NE
+
+  4.NE在囊泡内合成后被释放到轴浆中，以被苯乙醇胺氮位甲基转移酶（phenylethanolamine N-methyltransferase， PNMT）（from肾上腺素能神经元）转化为adrenaline；adrenaline再被运转会vesicle中以被释放。（除作为神经递质以外，adrenaline还可以由肾上腺髓质释放进入血流，作为一种激素。）
+
+｜Degradation：通过Na+依赖转运体选择性地将儿茶酚胺类物质reuptake，回到末梢后，被重新载入vesicle或被线粒体外膜的单胺氧化酶（monoamine oxidase，MAO）酶促降解。
+
+## 氨基酸能神经元
+
+谷氨酸（glutamateReuptake酸（glycine，Gly），和GABA。除GABA仅作为一种神经递质起作用以外，Glu和Gly还属于可以合成蛋白质的20中氨基酸中的两种。
+
+｜**Synthesis**：Glu和Gly可由葡萄糖和其他前体物质合成；Glu是GABA的前体物质。
+
+·GABA合成步骤：由谷氨酸脱羧酶（glutamic acid decarboxylase，GAD）转化Glu而成。GAD是GABA的标志酶
+
+｜**Degradation**：Reuptake by Na+依赖transporter；GABA由GABA转氨酶（GABA transaminase）在突触前末梢/胶质细胞内被降解。
+
