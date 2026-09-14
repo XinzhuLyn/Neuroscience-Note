@@ -8,7 +8,7 @@ In this Chapter, we will focus on how visual information process leaving the ret
 
 **Key Pathway**: Visual field in retina **-->** Subcortical Structure **-->** Striate cortex
 
-[mermaid-diagram.png]
+![central pathway overview](./mermaid-diagram.png)
 
 |**Table of content**||
 |-|-|
@@ -41,8 +41,8 @@ Glossary for this part
 |Tectum|顶盖|Dorsal midbrain structure, include superior colliculus|
 |Superior colliculus|上丘|A part of tectum in midbrain, mediates visual reflexes(Ex.saccades)|
 
-[Figure 1, Visual fields]
-[Figure 2, Lens of eyes project inverted images on the retina] 
+![Visual field](./Visual field.png)
+
 
 
 
