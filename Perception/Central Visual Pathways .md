@@ -8,6 +8,8 @@ In this Chapter, we will focus on how visual information process leaving the ret
 
 **Key Pathway**: Visual field in retina **-->** Subcortical Structure **-->** Striate cortex
 
+[mermaid-diagram.png]
+
 |**Table of content**||
 |-|-|
 |Retina **-->** Subcortical Structure|Optic nerve, Optic chiasm, Optic tract, Tectum, Superior colliculus, LGN|
