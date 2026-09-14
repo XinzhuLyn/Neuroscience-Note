@@ -21,7 +21,7 @@ In this Chapter, we will focus on how visual information process leaving the ret
 
 
 
-## Visual field
+## Retina --> Subcortical structure
 
 Glossary for this part
 
@@ -41,6 +41,7 @@ Glossary for this part
 
 [Figure 1, Visual fields]
 [Figure 2, Lens of eyes project inverted images on the retina] 
+
 
 
 
