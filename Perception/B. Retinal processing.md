@@ -7,6 +7,8 @@ Retina contains 3 Layers of cells:
 
 ![视网膜细胞层级图](./retina_bilingual_diagram.svg)
 
+<p><a href="https://commons.wikimedia.org/wiki/File:1414_Rods_and_Cones.jpg#/media/File:1414_Rods_and_Cones.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/1414_Rods_and_Cones.jpg/500px-1414_Rods_and_Cones.jpg?utm_source=zh.wikipedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" alt="1414 Rods and Cones.jpg" height="734" width="500"></a><br>作者 OpenStax College - Anatomy &amp; Physiology, Connexions Web site. <a rel="nofollow" class="external free" href="https://cnx.org/content/col11496/1.6/">https://cnx.org/content/col11496/1.6/</a>, Jun 19, 2013.，<a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>，<a href="https://commons.wikimedia.org/w/index.php?curid=30148002">链接</a></p>
+
 **Ganglion cell->Bipolar cell->Photoreceptor cell**
 
 
@@ -31,8 +33,19 @@ Retina contains 3 Layers of cells:
 
  # Photoreceptor
 cells that "detect" light, color, respond to light with graded changes in membrane potential
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Overview_of_the_retina_photoreceptors_(a).png#/media/File:Overview_of_the_retina_photoreceptors_(a).png"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Overview_of_the_retina_photoreceptors_%28a%29.png/500px-Overview_of_the_retina_photoreceptors_%28a%29.png?utm_source=zh.wikipedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" alt="Overview of the retina photoreceptors (a).png" height="154" width="500"></a><br>作者 Christine Blume, Corrado Garbazza &amp; Manuel Spitschan - Blume, C., Garbazza, C. &amp; Spitschan, M. Effects of light on human circadian rhythms, sleep and mood. Somnologie 23, 147–156 (2019). <a rel="nofollow" class="external free" href="https://doi.org/10.1007/s11818-019-00215-x">https://doi.org/10.1007/s11818-019-00215-x</a>，<a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>，<a href="https://commons.wikimedia.org/w/index.php?curid=97114926">链接</a></p>
  
  ## 2 types of Photoreceptors:Rods and Cones
+
+**Rod**
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Rod%26Cone.jpg#/media/File:Rod&amp;Cone.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Rod%26Cone.jpg?utm_source=zh.wikipedia.org&amp;utm_campaign=imageinfo&amp;utm_content=original" alt="视杆细胞的解剖构造[4]" height="532" width="308"></a><br>作者 <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">英语维基百科</a>的<a href="https://en.wikipedia.org/wiki/User:Kosigrim" class="extiw" title="wikipedia:User:Kosigrim">Kosigrim</a> - <span class="int-own-work" lang="zh-cn">自己的作品</span>，公有领域，<a href="https://commons.wikimedia.org/w/index.php?curid=33725653">链接</a></p>
+
+**Cone**
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Cone_cell_en.png#/media/File:Cone_cell_en.png"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Cone_cell_en.png/500px-Cone_cell_en.png?utm_source=zh.wikipedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" alt="视锥细胞的解剖构造" height="686" width="500"></a><br>作者 <a href="//commons.wikimedia.org/wiki/User:Kruusam%C3%A4gi" title="User:Kruusamägi">Ivo Kruusamägi</a> - <span class="int-own-work" lang="zh-cn">自己的作品</span>，<a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>，<a href="https://commons.wikimedia.org/w/index.php?curid=9772820">链接</a></p>
+ 
 Differences between
 
 |Rods视杆|Cones视锥|
