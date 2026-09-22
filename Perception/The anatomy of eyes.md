@@ -19,6 +19,7 @@ In this note, we will briefly review the anatomic structure of the eyes.
 |Retina视网膜| Light-sensitive neural layer; converts light into electrical signals.|
 |Fovea中央凹|Small central depression in the retina; provides sharpest, most detailed vision.|
 |Optic nerve视神经| Bundle of nerve fibers; transmits visual signals from the retina to the brain.|
+|Blind spot盲点|The spot that optic nerves and blood vessels leave the retina, photoreceptors do not exist within that spot and therefore no visual image generated.|
 
 **Accommodation**:  The eye's ability to adjust its focal power (mainly by changing lens shape) to focus on objects at different distances.
 
