@@ -14,13 +14,7 @@ Retina contains 3 Layers of cells:
 
 
 
-|Structure:Following the alignment|--|
-|---|---|
-|ganglion cell|--|
-|amacrine cell|Inter neurons|
-|bipolar cell|--|
-|horizontal cell|Inter neurons|
-|photoreceptor|--|
+
 
 **There are two pathways that conveys visual information**
 |Pathways|Formation|
