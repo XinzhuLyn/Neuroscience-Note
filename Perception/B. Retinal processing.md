@@ -91,7 +91,6 @@ Therefore, Glu concentration is related to the Ca2+ concentration
 # Bipolar cell
 
 
-
 ## Two types of Bipolar cell
 
 Each cone cells synapse on both 2 types of bipolar cell, it "communicates" with bipolar cells with glutamate(neurotransmitter)
@@ -159,6 +158,8 @@ Each region of retina has several functionally distinct subsets of ganglion cell
 |Non M or P cells|Largely unknown |One type is respond to overall ambient light intensity|
 
 # Interneurons
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Gray882.png#/media/File:Gray882.png"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Gray882.png/500px-Gray882.png?utm_source=zh.wikipedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" alt="Gray882.png" height="406" width="500"></a><br>作者 <a href="https://en.wikipedia.org/wiki/en:Henry_Vandyke_Carter" class="extiw" title="w:en:Henry Vandyke Carter"><span title="English anatomist, illustrator of Gray's Anatomy (1831–1897)">亨利·芬戴克·卡特</span></a> - <a href="https://en.wikipedia.org/wiki/Henry_Gray" class="extiw" title="en:Henry Gray">Henry Gray</a> (1918年) 《 Anatomy of the Human Body》 (See "图书" section below)<a href="https://en.wikipedia.org/wiki/Bartleby.com" class="extiw" title="en:Bartleby.com">Bartleby.com</a>: <a rel="nofollow" class="external text" href="http://www.bartleby.com/107/">Gray's Anatomy</a>, <a rel="nofollow" class="external text" href="http://www.bartleby.com/107/illus882.html">Plate 882</a>，公有领域，<a href="https://commons.wikimedia.org/w/index.php?curid=566821">链接</a></p>
 
 ## Horizontal cells
 
